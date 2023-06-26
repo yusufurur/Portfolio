@@ -41,8 +41,8 @@ Feel free to explore the portfolio and check out the projects. Each project prov
 If you have any inquiries or would like to get in touch, please reach out to me:
 
 - Email: yusufurur@gmail.com
-- LinkedIn: (www.linkedin.com/in/yusufurur)
-- GitHub: (https://github.com/yusufurur)
+- LinkedIn: www.linkedin.com/in/yusufurur
+- GitHub: https://github.com/yusufurur
 
 Thank you for visiting my Full Stack Web Developer Portfolio!
 
